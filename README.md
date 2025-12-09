@@ -86,4 +86,4 @@ After the script completes and you have reconnected via SSH:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Maintained by [Doomhound](https://github.com/insandrew)*
+*Maintained by [INS Andrew](https://github.com/insandrew)*
