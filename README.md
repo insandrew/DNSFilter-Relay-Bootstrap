@@ -30,7 +30,7 @@ This script transforms the manual, multi-step process of setting up a Relay into
 
     ```bash
     # Clone the repo
-    git clone https://github.com/doomhound188/dnsfilter-relay-bootstrap.git
+    git clone https://github.com/insandrew/dnsfilter-relay-bootstrap.git
     cd dnsfilter-relay-bootstrap
     
     # Make executable
@@ -86,4 +86,4 @@ After the script completes and you have reconnected via SSH:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Maintained by [Doomhound](https://github.com/doomhound188)*
+*Maintained by [Doomhound](https://github.com/insandrew)*
