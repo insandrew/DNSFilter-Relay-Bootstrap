@@ -1,6 +1,6 @@
 # DNSFilter Relay Bootstrap
 
-A streamlined Bash utility designed to automate the deployment and configuration of [DNSFilter Relays](https://help.dnsfilter.com/hc/en-us/articles/1500008107562-DNS-Relay-Deployment-Guide) on Ubuntu 22.04 virtual machines.
+A streamlined Bash utility designed to automate the deployment and configuration of [DNSFilter Relays](https://help.dnsfilter.com/hc/en-us/articles/1500008110501-DNS-Relay-deployment-guide) on Ubuntu 22.04 virtual machines.
 
 This script transforms the manual, multi-step process of setting up a Relay into a single interactive session, handling everything from OS hardening to persistent network configuration.
 
